@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development,Python,c\c++**
 
-- 📫 How to reach me **chaurekarina2002@gmail.com**
+- 📫 How to reach me **[chaurekarina2002@gmail.com](https://www.linkedin.com/in/karina-chaure-0582481b3)**
 
 - ⚡ Fun fact **Darkness is shy and polite (I write poetry);**
 
