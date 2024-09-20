@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, LLM, AI**
 
-- 💬 Ask me about **Data Science, Python,c\c++**
+- 💬 Ask me about **Data Science, Python, SQL, c\c++**
 
 - 📫 How to reach me **[chaurekarina2002@gmail.com](https://www.linkedin.com/in/karina-chaure-0582481b3)**
 
