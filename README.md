@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karinachaure&label=Profile%20views&color=0e75b6&style=flat" alt="karinachaure" /> </p>
 
-- 🌱 I’m currently learning **React Native, AI**
+- 🌱 I’m currently learning **Deep Learning, LLM, AI**
 
-- 💬 Ask me about **Web Development,Python,c\c++**
+- 💬 Ask me about **Data Science, Python,c\c++**
 
 - 📫 How to reach me **[chaurekarina2002@gmail.com](https://www.linkedin.com/in/karina-chaure-0582481b3)**
 
